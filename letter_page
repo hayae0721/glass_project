@@ -1,13 +1,17 @@
-<!DOCTYPE htm3>
-<htm3>
-
+<!DOCTYPE html>
+<html>
 <head>
-    
 <title> 유리병 프로젝트 </title>
 <style>
    
     body{
-        background: ivory url("https://cdn.pixabay.com/photo/2016/02/22/13/43/paper-1215552_960_720.jpg") center center/600px 450px no-repeat;
+        
+        background-color: ivory;
+        background-image: url(https://cdn.pixabay.com/photo/2016/02/22/13/43/paper-1215552_960_720.jpg);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: 700PX 450PX;
+        background-attachment: fixed; 
     }
      
     h2, p { 
@@ -20,8 +24,8 @@
 </head>
 <body>
     <h2> 유리병에 담을 당신의 이야기를 적어주세요.😊🎶💖✍️🖋️📝<br></h2>
-    <p><br><br><br>
-    <textarea cols ="57" rows="20"> </textarea>
+    <p><br><br>
+    <textarea cols ="70" rows="22"> </textarea>
     </p>
 </body>
-</htm3>
+</html>
