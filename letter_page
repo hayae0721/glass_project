@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
+
 <head>
+    
 <title> 유리병 프로젝트 </title>
 <style>
    
@@ -14,7 +16,7 @@
         background-attachment: fixed; 
     }
      
-    h2, p, h3 { 
+    h2, p { 
         text-align : center; 
     }
   
