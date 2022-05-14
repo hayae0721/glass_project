@@ -7,11 +7,11 @@
 <h3>암호를 입력하십시오</h3>
 <hr>
 <script>
-var key = prompt("암호를 대라");  //프롬프트 다이얼로그 
+var key = prompt("암호를 대라");  
 
 switch(key)  //switch 문
 {
- case "love":   //you 적었을 때만 통과시킴
+ case "love":   //love 적었을 때만 통과시킴
  document.write('<a href="http://gusxo314.dothome.co.kr/bstory.html">유리병에 편지쓰러 가기</a>')
  break;
 }
