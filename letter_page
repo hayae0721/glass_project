@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
-
 <head>
-    
 <title> 유리병 프로젝트 </title>
 <style>
    
@@ -16,7 +14,7 @@
         background-attachment: fixed; 
     }
      
-    h2, p { 
+    h2, p, h3 { 
         text-align : center; 
     }
   
@@ -29,5 +27,6 @@
     <p><br><br>
     <textarea cols ="70" rows="22"> </textarea>
     </p>
+    <h3><a href="blogin.html">전송하기</a></h3>
 </body>
 </html>
