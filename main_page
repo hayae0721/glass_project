@@ -14,16 +14,10 @@
         background-size : 100px 100px;
     }
      
-    h1,h2,div { 
+   h1,h2,h3,div { 
         text-align : center; 
     }
-    h3 {
-        width: 80px;
-        border: ridge 10px;
-        margin-left : 550px;
-        padding-left : 20px;
-        padding-right: 20px;
-    }
+
     div.box {
      background : rgb(255, 228, 184);
      margin : 40px;
@@ -46,7 +40,7 @@
 </div>
 </div>
 <img src=https://cdn.pixabay.com/photo/2020/06/20/19/20/message-in-a-bottle-5322111_960_720.jpg ;>
- <h3>시작하기</h3>   
+<h3><a href="blogin.html">시작하기</a></h3>
 
 </body>
 </html>
